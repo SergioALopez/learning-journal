@@ -10,4 +10,7 @@
 ## Day 3
 - I have to pick up Sandra to go to the Madalena
 - Doing the process of commiting and pushing
-
+## Day 4
+- Learned about Git branches
+- Created a branch: my-first-branch
+- Switched between branches
