@@ -7,3 +7,6 @@
 Need to change the date for the digital signature
 Keep track of the recrutment accounts
 Keep pushing git
+## Day 3
+- I have to pick up Sandra to go to the Madalena
+- Doing the process of commiting and pushing
