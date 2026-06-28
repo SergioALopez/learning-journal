@@ -16,5 +16,5 @@
 - Switched between branches
 ## Day 5
 - Practicing Git branches
-Mistake
+- Mistake
 - Using branches
