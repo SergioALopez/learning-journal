@@ -14,3 +14,7 @@
 - Learned about Git branches
 - Created a branch: my-first-branch
 - Switched between branches
+## Day 5
+- Practicing Git branches
+Mistake
+- Using branches
