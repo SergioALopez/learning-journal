@@ -18,3 +18,5 @@
 - Practicing Git branches
 - Mistake
 - Using branches
+## Day 6
+- Learned about git reset
